@@ -1,6 +1,6 @@
 # Dancing Puppet
 
-[See the project in action](https://geli25.github.io/final_project/)
+[See the project in action](https://geli25.github.io/DancingPuppet/)
 
 **The live version does not include FaceOSC due to permission issues**
 
